@@ -1,2 +1,2 @@
 import os, sys
-print(os.system(argv[1]))
+print(os.system(sys.argv[1]))
